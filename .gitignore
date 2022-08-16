@@ -1,0 +1,4 @@
+*.exe
+*.pdf
+NotWork/
+.vscode/
